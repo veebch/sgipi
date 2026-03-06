@@ -1,3 +1,5 @@
+![Sketch](/images/sgipi_gh.jpg)
+
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?style=flat&logo=youtube&logoColor=red&labelColor=white&color=ffed53)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ) [![Github](https://img.shields.io/github/stars/veebch?style=flat&logo=github&logoColor=black&labelColor=white&color=ffed53)](https://www.github.com/veebch/)
 
 # SGI Pi
@@ -19,6 +21,7 @@ It has the upside of letting you use a hot-swappable keyboard so that you can sw
 # Assembly
 
 TODO
+
 
 
 
