@@ -20,6 +20,8 @@ It has the upside of letting you use a hot-swappable keyboard so that you can sw
 
 # Assembly
 
+Attach the 8 ohm speaker to the 3d printed lid, pointing downwards. Then connect to the MAX98357 amp as follows:
+
 | MAX98357A Pin | Connect to CM5 J8 Pin | GPIO   | Function                |
 | ------------- | --------------------- | ------ | ----------------------- |
 | VIN           | Pin 2 or Pin 4        | —      | 5 V power supply        |
@@ -32,6 +34,7 @@ It has the upside of letting you use a hot-swappable keyboard so that you can sw
 | --------- | --------- |
 | SPK+      | Speaker + |
 | SPK−      | Speaker − |
+
 
 
 
