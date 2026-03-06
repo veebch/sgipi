@@ -20,7 +20,21 @@ It has the upside of letting you use a hot-swappable keyboard so that you can sw
 
 # Assembly
 
-TODO
+| MAX98357A Pin | Connect to CM5 J8 Pin | GPIO   | Function                |
+| ------------- | --------------------- | ------ | ----------------------- |
+| VIN           | Pin 2 or Pin 4        | —      | 5 V power supply        |
+| GND           | Pin 6 (or any GND)    | —      | Ground                  |
+| BCLK          | Pin 12                | GPIO18 | I²S Bit Clock           |
+| LRC           | Pin 35                | GPIO19 | I²S Word Select (LRCLK) |
+| DIN           | Pin 40                | GPIO21 | I²S Audio Data          |
+
+| MAX98357A | Speaker   |
+| --------- | --------- |
+| SPK+      | Speaker + |
+| SPK−      | Speaker − |
+
+
+
 
 
 
