@@ -35,6 +35,10 @@ Attach the 8 ohm speaker to the 3d printed lid, pointing downwards. Then connect
 | SPK+      | Speaker + |
 | SPK−      | Speaker − |
 
+# Putting RaspiOS on the NVMe
+
+# Final Steps
+
 In your running RaspiOS, edit `/etc/firmware/config.txt` to include
 
 ```
@@ -45,6 +49,7 @@ dtoverlay=hifiberry-dac
 reboot, and then test with:
 
 ```speaker-test -c1 -twav -D hw:0,0```
+
 
 
 
