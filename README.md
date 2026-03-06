@@ -35,6 +35,12 @@ Attach the 8 ohm speaker to the 3d printed lid, pointing downwards. Then connect
 | SPK+      | Speaker + |
 | SPK−      | Speaker − |
 
+In your running RaspiOS, edit `/etc/firmware/config.txt` to include
+
+```
+dtparam=i2s=on
+dtoverlay=hifiberry-dac
+```
 
 
 
