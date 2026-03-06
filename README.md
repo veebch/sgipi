@@ -6,6 +6,8 @@
 
 The lack of modularity on the Pi 500+ was enough to make us build an alternative desktop solution out of a Compute Module 5. The idea being to make something a bit more future proof that doesn't involve a perfectly good keyboard becoming ewaste once the brains of the machine start to look dated. 
 
+It's has a footprint about 10 times smaller than the original and is a few hundred times more powerful.
+
 It has the upside of letting you use a hot-swappable keyboard so that you can swap out switches as you go down the mechanical keyboard rabbit hole. It also has full size HDMI ports and a speaker to let you add a [startup sound](https://www.youtube.com/watch?v=CH9saUP2460).
 
 # Parts
@@ -181,6 +183,7 @@ dtoverlay=hifiberry-dac
 reboot, and then test with:
 
 ```speaker-test -c1 -twav -D hw:0,0```
+
 
 
 
