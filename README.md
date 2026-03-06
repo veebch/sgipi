@@ -4,7 +4,7 @@
 
 # SGI Pi
 
-The lack of modularity on the Pi 500+ was enough to make us build an alternative out of a Compute Module 5. The idea is to make something a bit more future proof that doesn't involve a perfectly good keyboard becoming ewaste once the brains of the machine start to look dated. 
+The lack of modularity on the Pi 500+ was enough to make us build an alternative desktop solution out of a Compute Module 5. The idea being to make something a bit more future proof that doesn't involve a perfectly good keyboard becoming ewaste once the brains of the machine start to look dated. 
 
 It has the upside of letting you use a hot-swappable keyboard so that you can swap out switches as you go down the mechanical keyboard rabbit hole. It also has full size HDMI ports and a speaker to let you add a [startup sound](https://www.youtube.com/watch?v=CH9saUP2460).
 
@@ -153,7 +153,7 @@ quiet splash plymouth.ignore-serial-consoles cfg80211.ieee80211_regdom=US
 ## Step 8: Boot from NVMe
 1. Shut down CM5.  
 2. Remove SD card.  
-3. Power on CM5 — it should now boot from NVMe and display the full desktop.
+3. Power on CM5 - it should now boot from NVMe and display the full desktop.
 
 ---
 
@@ -181,6 +181,7 @@ dtoverlay=hifiberry-dac
 reboot, and then test with:
 
 ```speaker-test -c1 -twav -D hw:0,0```
+
 
 
 
