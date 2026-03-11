@@ -10,6 +10,8 @@ It's has a footprint that is about ten times smaller and is a few hundred times 
 
 It has the upside of letting you use a hot-swappable keyboard so that you can swap out switches as you go down the mechanical keyboard rabbit hole. It also has full size HDMI ports and a speaker to let you add a [startup sound](https://www.youtube.com/watch?v=CH9saUP2460).
 
+[irix OS, SGI irix and the 4dwm gui are trademarks of silicon graphics. inc.]
+
 # Parts
 - A Raspberry Pi CM5
 - A Raspberry Pi CM5 IO Board
@@ -186,6 +188,7 @@ reboot, and then test the speaker with:
 
 Congratulations, you now have an little computer that is a nice combo of old and new. If you want to get things looking authentic from a software point of view, try
 installing [Maxx](https://docs.maxxinteractive.com/books/octane-v22-installation-guide/page/debian-guide-x64-untested-wip)
+
 
 
 
