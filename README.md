@@ -12,6 +12,12 @@ It has the upside of letting you use a hot-swappable keyboard so that you can sw
 
 [irix OS, SGI irix and the 4dwm gui are trademarks of silicon graphics. inc.]
 
+## Explainer Video
+
+Here's an overview video of the full build and a demo of it in action:
+
+[![YouTube](http://i.ytimg.com/vi/g_Rn5wqXNRI/hqdefault.jpg)](https://www.youtube.com/watch?v=g_Rn5wqXNRI)
+
 # Parts
 - A Raspberry Pi CM5
 - A Raspberry Pi CM5 IO Board
