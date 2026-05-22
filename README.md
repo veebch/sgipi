@@ -14,7 +14,7 @@ It has the upside of letting you use a hot-swappable keyboard so that you can sw
 
 ## Explainer Video
 
-Here's an overview video of the full build and a demo of it in action:
+Here's an overview video of the full build and a demo of it in action (click/tap to play):
 
 [![YouTube](http://i.ytimg.com/vi/g_Rn5wqXNRI/hqdefault.jpg)](https://www.youtube.com/watch?v=g_Rn5wqXNRI)
 
